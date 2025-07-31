@@ -8,6 +8,8 @@ Visit us on the best!
 https://www.quasar-store.com
 
 
+KO-FI https://ko-fi.com/emanueldev
+
 
 
 # About Me
