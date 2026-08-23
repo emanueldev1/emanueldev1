@@ -148,10 +148,6 @@ const emanuelDev = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanueldev1&theme=dracula&bg_color=282A36&color=F8F8F2&line=BD93F9&point=FF79C6&area=true&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" alt="Contribution activity graph" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/emanueldev1/emanueldev1/output/snake.svg" alt="Contribution snake animation" />
 </div>
 
