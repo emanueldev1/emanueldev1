@@ -145,14 +145,6 @@ const emanuelDev = {
 
 <br />
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/emanueldev1/emanueldev1/output/snake.svg" alt="Contribution snake animation" />
-</div>
-
-<br />
-
 ## 🎧 Currently Listening
 
 <div align="center">
