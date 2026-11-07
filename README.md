@@ -163,8 +163,4 @@ const emanuelDev = {
 
 <br />
 
-<div align="center">
-  <i>Thanks for stopping by — feel free to star a repo or say hi. ⭐</i>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:6272a4,100:282a36&height=120&section=footer" alt="" />
